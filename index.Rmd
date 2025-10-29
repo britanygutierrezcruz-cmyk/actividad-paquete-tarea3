@@ -1,7 +1,7 @@
 ---
 title: Análisis de datos con R
 subtitle: "Actividad - el paquete dplyr"
-author: "Maria Fernanda Ruiz Ochoa"
+author: "britany gutierrez"
 date: "22/10/2025"
 output:
     prettydoc::html_pretty:
